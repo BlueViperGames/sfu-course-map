@@ -19,7 +19,7 @@ SFU degree requirements are spread across long calendar pages — required cours
 
 ## Screenshots
 
-_Add a screenshot or two here — a shot of the mind map and the sidebar make this repo much easier to skim._
+![SFU Course Map screenshot](./docs/screenshot.png)
 
 ## Getting started
 
